@@ -1,5 +1,6 @@
 # HUMAN-FOLLOWING-ROBOT
 This Robot is build using several hardware components and Arduino programming language.🤖🚕🦾
+The text file contains the code.
 
 Project Description
 This project involves creating a Human-Following Robot using an Arduino UNO board, ultrasonic sensors, and an L298N motor driver. The robot is designed to follow a human autonomously by measuring distances and adjusting its movement accordingly.
